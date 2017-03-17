@@ -8,12 +8,9 @@ social:
   - title: Twitter
     img: /assets/images/twitter.ico
     url: https://twitter.com/imyyh
-  - title: Douban
-    img: /assets/images/douban.ico
-    url: https://www.douban.com/people/imyyh
   - title: Weibo
     img: /assets/images/weibo.ico
-    url: http://weibo.com/imyyh
+    url: https://weibo.com/imyyh
   - title: Gmail
     img: /assets/images/gmail.png
     url: mailto:yangyonghong@gmail.com
