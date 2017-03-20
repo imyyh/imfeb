@@ -18,3 +18,10 @@ social:
 avatar: /assets/images/imyyh.jpg
 introduction: >
   Hi! My nickname is imyyh.
+
+life:
+  title: Life Node
+  timeline:
+    - date: Now
+    - "Born and Live"
+    - date: 1980-08
