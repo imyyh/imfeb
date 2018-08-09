@@ -1,39 +1,20 @@
-title: imfeb / 二月
+title: imfeb
 description: One who is ER.
 
 social:
-  - title: GitHub
-    img: /assets/images/github.ico
-    url: https://github.com/imyyh
   - title: Twitter
     img: /assets/images/twitter.ico
     url: https://twitter.com/imyyh
-  - title: Weibo
-    img: /assets/images/weibo.ico
-    url: https://weibo.com/imyyh
   - title: Gmail
     img: /assets/images/gmail.png
     url: mailto:yangyonghong@gmail.com
 
 avatar: /assets/images/imyyh.jpg
 introduction: >
-  Hi! My nickname is imyyh.
+  Hi! My nickname is imyyh.A man have nothing to do,always find something to do,but still have nothing to do.
 
 working:
   title: Life Node
   timeline:
-    - date: Now
-    - "All were gone"
-    - date: 2013-04
-    - "Begin to work"
-    - date: 2005-07
-    - "In love with a girl"
-    - date: 2002-02
-    - "Another University"
-    - date: 2001-07
-    - "Leave school after only one year"
-    - date: 2000-09
-    - "My school days"
-    - date: 1987-09
     - "Born and know nothing"
     - date: 1980-08
