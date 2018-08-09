@@ -1,4 +1,4 @@
-title: imfeb
+title: imfeb / ER
 description: One who is ER.
 
 social:
@@ -12,10 +12,18 @@ social:
 avatar: /assets/images/imyyh.jpg
 introduction: >
   Hi! My nickname is imyyh.<br>
-  A man has nothing to do,always finds something to do,but still has nothing to do.
+  A man has nothing to do,always finding,but still has none.
 
 working:
   title: Life Node
   timeline:
     - date: 1980-08
-    - "Born and know nothing"
+    - "Born in a small village and know nothing"
+    - date: 1986-09
+    - "Go to my first school and learn my life"
+    - date: 1999-09
+    - "My university life,but I don't love it,after a year I left this school"
+    - date: 2001-09
+    - "My second universities"
+    - date: 2005-07
+    - "I had my first job,just a IT"
