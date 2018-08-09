@@ -11,10 +11,11 @@ social:
 
 avatar: /assets/images/imyyh.jpg
 introduction: >
-  Hi! My nickname is imyyh.A man have nothing to do,always find something to do,but still have nothing to do.
+  Hi! My nickname is imyyh.<br>
+  A man has nothing to do,always finds something to do,but still has nothing to do.
 
 working:
   title: Life Node
   timeline:
-    - "Born and know nothing"
     - date: 1980-08
+    - "Born and know nothing"
