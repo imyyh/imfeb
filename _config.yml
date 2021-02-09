@@ -1,37 +1,42 @@
 title: imfeb / ER
-description: One who is ER.
+description: Feb is good month,So I am here.
 
 social:
   - title: Twitter
     img: /assets/images/twitter.ico
     url: https://twitter.com/imyyh
+  - title: Github
+    img: /assets/images/github.png
+    url: https://github.com
+  - title: V2ex
+    img: /assets/images/v2ex.png
+    url: https://www.v2ex.com/
   - title: Gmail
     img: /assets/images/gmail.png
     url: mailto:yangyonghong@gmail.com
 
 avatar: /assets/images/imyyh.jpg
 introduction: >
-  Hi! My nickname is imyyh.<br>
   A man has nothing to do,always finding but still has none.
 
 working:
   title: Life Node
   timeline:
     - date: 1980-08
-    - "Born in a small village and know nothing."
+    - "Born in a small village and know the sky is blue."
     - date: 1986-09
-    - "Go to my first school and learn my life."
-    - date: 1999-09
-    - "My university life,but I don't like it,after one year I leave this school."
-    - date: 2001-09
-    - "My second university."
-    - date: 2002-07
-    - "I have my first love."
+    - "Go to my kindergarten and learn how to play."
     - date: 2005-07
-    - "Ending the road to school."
-    - date: 2005-09
-    - "Have my first job."
+    - "End my school road and have a job."
     - date: 2012-11
     - "Also have my own family."
     - date: 2013-04
-    - "Change all my life,my life is over."
+    - "End all in my own family life."
+    - date: 2016-11
+    - "Begin my CQ life."
+    - date: 2019-01
+    - "Back to my beautiful life city GZ."
+    - date: 2019-10
+    - "Because my BRAIN,I know nothing in the world."
+    - date: 2021-02
+    - "Everything comes back to me and I have my new life."
