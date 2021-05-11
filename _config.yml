@@ -1,13 +1,10 @@
 title: imfeb / ER
-description: Feb is good month.
+description: February is a good month.
 
 social:
   - title: Twitter
     img: /assets/images/twitter.ico
     url: https://twitter.com/imyyh
-  - title: V2ex
-    img: /assets/images/v2ex.png
-    url: https://www.v2ex.com/
   - title: Github
     img: /assets/images/github.ico
     url: https://github.com/
@@ -17,26 +14,30 @@ social:
 
 avatar: /assets/images/imyyh.jpg
 introduction: >
-  A man has nothing to do,always finding but still has none.
+  The man has nothing to do and finds someting,but still has none.
 
 working:
   title: Life Node
   timeline:
     - date: 1980-08
-    - "Born in a small village and know the sky is blue."
+    - "Born in a small village and know sky is blue."
     - date: 1986-09
     - "Go to my kindergarten and learn how to play."
+    - date: 1999-09
+    - "My first University."
+    - date: 2001-09
+    - "My second University."
     - date: 2005-07
-    - "End my school road and have a job."
+    - "End my road at school and have a job."
     - date: 2012-11
-    - "Also have my own family."
+    - "Also have my own life home."
     - date: 2013-04
     - "End all in my own family life."
     - date: 2016-11
-    - "Begin my CQ life."
+    - "Begin new life in ChongQing."
     - date: 2019-01
-    - "Back to my beautiful life city GZ."
+    - "Back to my good life city GuangZhou."
     - date: 2019-10
-    - "Because my BRAIN,I know nothing in the world."
-    - date: 2021-02
+    - "My BRAIN is dead."
+    - date: 2020-02
     - "Everything comes back to me and I have my new life."
